@@ -31,9 +31,14 @@ Ensure you have **Node.js** and **npm** installed on your machine. If not, downl
    Clone the Quizera repository from GitHub to your local machine by running the following command:
 
    ```bash
-   git clone https://github.com/yourusername/quizera.git
-  
-  ##Run this command to install all packages
+   git clone https://github.com/coder1haseeb/Next-js-Quiz-App.git
+
+1. **Run this command to install all packages**
+
+   ```bash
+   npm install
+
+2. **Run this command to start development server**
   
   ```bash
-  npm install
+   npm run dev
